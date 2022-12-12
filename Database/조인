@@ -1,0 +1,4 @@
+join이란? 두개 이상의 테이블이나 db를 연결하여 데이터를 합치는 방법 
+
+조인의 종류
+(inner join, right outer, left outer, full outer, cross, self join)
